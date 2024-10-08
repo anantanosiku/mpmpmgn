@@ -1,6 +1,9 @@
+local player = game.Players.LocalPlayer
+if player.Name == "Username" then
+  
 elseif player.Name == "" then
-    elseif player.Name == "neme" then
-     elseif player.Name == "neme" then
+    elseif player.Name == "" then
+     elseif player.Name == "" then
      elseif player.Name == "" then
      elseif player.Name == "" then
      elseif player.Name == "" then
@@ -13,3 +16,6 @@ elseif player.Name == "" then
      elseif player.Name == "" then
      elseif player.Name == "" then
     else
+
+    player:Kick("ホワイトリストに入ってません")
+end
