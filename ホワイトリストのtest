@@ -13,5 +13,3 @@ if player.Name == "Username" then
      elseif player.Name == "" then
      elseif player.Name == "" then
     else
-    player:Kick("ホワイトリストに入ってません")
-end
