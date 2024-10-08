@@ -1,8 +1,6 @@
 local player = game.Players.LocalPlayer
 if player.Name == "Username" then
-elseif player.Name == "." then
-    elseif player.Name == "" then
-     elseif player.Name == "gegdgmvs35" then
+     elseif player.Name == "" then
      elseif player.Name == "" then
      elseif player.Name == "" then
      elseif player.Name == "" then
