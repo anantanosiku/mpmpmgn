@@ -2004,3 +2004,55 @@ task.spawn(function()
 end)
 
 return OrionLib
+
+
+
+
+
+local player = game.Players.LocalPlayer
+if player.Name == "Username" then
+    print("Whitelisted")
+    elseif player.Name == "gegdgmvs35" then
+    print("Whitelisted")
+    elseif player.Name == "aaaaii9i68t5ut" then
+    print("Whitelisted")
+     elseif player.Name == "Yuzupi5121" then
+    print("Whitelisted")
+     elseif player.Name == "EDtomodachi" then
+    print("Whitelisted")
+     elseif player.Name == "EDsuzuki" then
+    print("Whitelisted")
+     elseif player.Name == "tomato082409" then
+    print("Whitelisted")
+     elseif player.Name == "gegdgmvs353535" then
+    print("Whitelisted")
+     elseif player.Name == "Head_Purple666Egg" then
+    print("Whitelisted")
+     elseif player.Name == "" then
+    print("Whitelisted")
+     elseif player.Name == "" then
+    print("Whitelisted")
+elseif player.Name == "" then
+    print("Whitelisted")
+     elseif player.Name == "" then
+    print("Whitelisted")
+elseif player.Name == "" then
+    print("Whitelisted")
+     elseif player.Name == "" then
+    print("Whitelisted")
+elseif player.Name == "" then
+    print("Whitelisted")
+     elseif player.Name == "" then
+    print("Whitelisted")
+elseif player.Name == "" then
+    print("Whitelisted")
+     elseif player.Name == "" then
+    print("Whitelisted")
+
+     
+    else
+ 
+    player:Kick("ホワイトリストに入ってないよ")
+end
+
+
